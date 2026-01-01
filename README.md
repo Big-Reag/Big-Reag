@@ -31,7 +31,7 @@ Additional / related skills you can list:
 
 ---
 
-## Toolbox (examples)
+## Toolbox
 - EDR / XDR: Microsoft Defender for Endpoint  
 - SIEM / Log Analytics: Elastic Stack, Splunk  
 - Network: Cisco ASA/Firepower, StealthWatch  
